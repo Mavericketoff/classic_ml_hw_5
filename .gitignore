@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Сырые данные и архивы — крупные файлы (лимит GitHub 100MB на файл)
+data/
+*.zip
